@@ -1,4 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Luis Carlos de Senna Moraes
-Tópicos Essenciais para Programação
+Respondendo a lista de exercício do GitHub
